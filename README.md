@@ -1,4 +1,5 @@
-<iframe width="560" height="315" src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozlukVideo.mp4" frameborder="3" allowfullscreen></iframe>
+<embed src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozlukVideo.mp4" width="400px" height="300px"  allowfullscreen="true" autostart="0" ></embed>
+
 
 
 
