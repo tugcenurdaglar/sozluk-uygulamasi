@@ -1,2 +1,2 @@
-<img src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozluk.gif" width="170px">
+<img src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozluk.gif" width="200px">
 
