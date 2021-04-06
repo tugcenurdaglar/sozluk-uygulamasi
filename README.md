@@ -1,4 +1,4 @@
-<video> 
+<video controls> 
   <source src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozlukVideo.mp4" type="video/mp4"> 
   </video>
 
