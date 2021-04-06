@@ -1,5 +1,4 @@
-<video controls> 
-  <source src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozlukVideo.mp4" type="video/mp4"> 
-  </video>
+<iframe src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozlukVideo.mp4" height="170"frameborder="0"></iframe>
+
 
 Retrofit2 kütüphanesiyle internet tabanlı olarak gerçekleşen bir uygulamadır. Uygulamada İngilizce kelimelerin Türkçe karşılığı verilmektedir. Aynı zamanda istenilen kelime aratılıp bulunabilmektedir.
