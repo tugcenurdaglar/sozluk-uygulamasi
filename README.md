@@ -1,5 +1,5 @@
 <video controls autoplay>
-  <source src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozlukVideo.mp4/videolar/intro.mp4" type="video/mp4">
+  <source src="https://github.com/tugcenurdaglar/sozluk-uygulamasi/blob/master/sozlukVideo.mp4" type="video/mp4">
 </video> 
 
 
